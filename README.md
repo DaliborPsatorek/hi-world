@@ -1,2 +1,4 @@
 # hi-world
-Mi first repositorz
+Mi first repository
+
+I like coffe ☕
